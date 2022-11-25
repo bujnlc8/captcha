@@ -1,2 +1,2 @@
 --index-url=https://pypi.tuna.tsinghua.edu.cn/simple
-Pillow==9.0.1
+Pillow==9.3.0
