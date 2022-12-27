@@ -1,2 +1,2 @@
 --index-url=https://pypi.tuna.tsinghua.edu.cn/simple
-setuptools==41.1.0
+setuptools==65.5.1
